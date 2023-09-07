@@ -30,9 +30,9 @@ export const LandingPage = () => {
 
       
       <div style={{ fontFamily: "Manrope", fontSize: "60px", fontWeight: 800, lineHeight: "80px", letterSpacing: "0em", textAlign: "left", color: "#00663F", marginTop: "10px", marginLeft: "100px",}}>
-  BUY.<br/>
-  INVEST.<br/>
-  GROW.<br/>
+  Buy.<br/>
+  Invest.<br/>
+  Grow.<br/>
 </div>
 
         <div style={{ fontFamily: "Nunito Sans", fontSize: "18px", fontWeight: 400, lineHeight: "28px", letterSpacing: "0em", textAlign: "left", marginLeft: "100px", marginTop: "35px" }}>
