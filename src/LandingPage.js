@@ -150,7 +150,7 @@ How do I know if my transaction is successful?</h1>
   </div>
 </div>
   <div>
-  <img src={contact} alt=''style={{ marginTop: "3650px"}} />
+  <img src={contact} alt=''style={{ marginTop: "3650px",cursor: "pointer",}} />
   </div>
 </div>
   
