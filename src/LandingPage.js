@@ -11,9 +11,6 @@ import plus from "../src/images/plus.png";
 import section from "../src/images/section.png";
 import content from "../src/images/Content.png";
 import iphone from "../src/images/iphone.png";
-import Rectan from "../src/images/Rectan.png";
-import eye from "../src/images/eye.png";
-import rectangle from "../src/images/rectangle.png";
 import contact from "../src/images/contact.png";
 
 
