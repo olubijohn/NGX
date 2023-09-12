@@ -37,8 +37,8 @@ export const LandingPage = () => {
   letterSpacing: "0em",
   textAlign: "left", 
   float: "right", marginTop: "4px", marginLeft: "130px", color: "#00653F"}}> X-RAIL</h1>
-        <button style={{ height:"40px", width:"80px", marginTop: "10px", marginLeft:"auto", marginRight:"10px", cursor: "pointer",color: "#76B82A", backgroundColor: "white", border: "1.5px solid green", borderRadius: "5px"}}>Login</button>
-        <button style={{ height: "40px", width: "115px", marginTop: "10px", marginRight: "70px", color: "white", cursor: "pointer", backgroundColor: "#76B82A", borderRadius: "5px", border:"1px solid green" }}>
+        <button style={{ height:"40px", width:"80px", marginTop: "10px", marginLeft:"auto", marginRight:"10px", cursor: "pointer",color: "#76B82A", backgroundColor: "white", border: "1.5px solid #76B82A", borderRadius: "5px"}}>Login</button>
+        <button style={{ height: "40px", width: "115px", marginTop: "10px", marginRight: "70px", color: "white", cursor: "pointer", backgroundColor: "#76B82A", borderRadius: "5px", border:"1px solid #76B82A" }}>
   Get Started <BsArrowRightCircle style={{ fontSize: "16px", marginLeft: "3px",marginBottom: "-4.5px", }} />
 </button>
       </header>
@@ -72,7 +72,7 @@ export const LandingPage = () => {
 
  <div>
  <img src={content} alt='' style={{ width: "576px", height: "290px", float: "left", marginTop: "950px", marginLeft: "794px", }} />
- <button style={{ height: "40px", width: "115px", marginTop: "450px", float: "left",  marginLeft: "794px", color: "white", cursor: "pointer", backgroundColor: "#76B82A", borderRadius: "5px", border:"1px solid green" }}>
+ <button style={{ height: "40px", width: "115px", marginTop: "450px", float: "left",  marginLeft: "794px",border:"1px solid #76B82A", color: "white", cursor: "pointer", backgroundColor: "#76B82A", borderRadius: "5px", }}>
   Get Started <BsArrowRightCircle style={{ fontSize: "16px", marginLeft: "3px",marginBottom: "-4.5px", }} />
 </button>
 </div>
